@@ -51,18 +51,21 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: Mathematica
-        description: ''
-        percent: 100
-        icon: code-bracket
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
       - name: Condensed Matter Physics
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: chart-line
+        icon_pack: fas
+      - name: Mathematica
+        description: ''
+        percent: 100
+        icon: mathematica
+        icon_pack: custom
+      - name: Python
+        description: ''
+        percent: 80
+        icon: python
+        icon_pack: fab
   # - name: Hobbies
   #   color: '#eeac02'
   #   color_border: '#f0bf23'
@@ -88,9 +91,10 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: at
+  - icon: envelope
     icon_pack: fas
-    link: 'mailto:cdebeule@upenn.edu'
+    link: /#contact
+    # link: 'mailto:cdebeule@upenn.edu'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=Ce-IWpsAAAAJ
