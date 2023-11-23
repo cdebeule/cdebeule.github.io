@@ -1,0 +1,18 @@
+---
+title: Aharonov-Bohm Oscillations in Minimally Twisted Bilayer Graphene
+authors:
+- Christophe De Beule
+- Fernando Dominguez
+- Patrik Recher
+date: '2020-08-01'
+publishDate: '2023-11-23T23:23:33.819591Z'
+publication_types:
+- article-journal
+publication: '*Phys. Rev. Lett.*'
+doi: 10.1103/PhysRevLett.125.096402
+tags:
+- article
+links:
+- name: URL
+  url: https://link.aps.org/doi/10.1103/PhysRevLett.125.096402
+---
