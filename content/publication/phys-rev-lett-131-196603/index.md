@@ -24,7 +24,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Phys. Rev. Lett.*'
+publication: '*Phys. Rev. Lett. __131__, 196603 (2023)*'
 publication_short: ''
 
 doi: 10.1103/PhysRevLett.131.196603

@@ -27,7 +27,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*SciPost Phys. 11*'
+publication: '*SciPost Phys. __11__, 095 (2021)*'
 publication_short: ''
 
 doi: 10.21468/SciPostPhys.11.5.095

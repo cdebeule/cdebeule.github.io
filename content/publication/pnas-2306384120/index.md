@@ -25,7 +25,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proc. Natl. Acad. Sci. U.S.A.*'
+publication: '*Proc. Natl. Acad. Sci. U.S.A. _120_, 2306384120 (2023) *'
 publication_short: ''
 
 doi: 10.1073/pnas.2306384120

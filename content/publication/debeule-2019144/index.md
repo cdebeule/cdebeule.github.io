@@ -25,7 +25,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Physics and Chemistry of Solids*'
+publication: '*J. Phys. Chem. Solids *'
 publication_short: ''
 
 doi: https://doi.org/10.1016/j.jpcs.2017.12.027
