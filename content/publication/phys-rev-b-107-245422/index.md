@@ -25,7 +25,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Phys. Rev. B*'
+publication: '*Phys. Rev. B __107__, 245422*'
 publication_short: ''
 
 doi: 10.1103/PhysRevB.107.245422

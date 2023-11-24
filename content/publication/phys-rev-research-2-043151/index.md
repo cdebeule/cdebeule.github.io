@@ -26,7 +26,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Phys. Rev. Res. __2__, 043151 (2020)*'
+publication: '*Phys. Rev. Res. __2__, 043151*'
 publication_short: ''
 
 doi: 10.1103/PhysRevResearch.2.043151

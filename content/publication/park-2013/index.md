@@ -26,7 +26,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*New Journal of Physics*'
+publication: '*New J. Phys. __15__, 113031*'
 publication_short: ''
 
 doi: 10.1088/1367-2630/15/11/113031
