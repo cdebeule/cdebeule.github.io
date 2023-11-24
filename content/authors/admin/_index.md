@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-I am a Postdoctoral Researcher at the University of Pennsylvania under supervision of Prof. Dr. Eugene J. Mele. My research interests include topological states of matter, quantum geometry, and moiré materials.
+I am a Postdoctoral Researcher at the University of Pennsylvania under supervision of Prof. Eugene Mele. My research interests include topological states of matter, quantum geometry, and moiré materials.
 {style="text-align: justify;"}
