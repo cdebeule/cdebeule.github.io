@@ -17,7 +17,7 @@ author_notes: []
 date: '2018-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-24T00:56:10.269737Z'
+publishDate: '2023-11-24T01:11:25.831038Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -69,9 +69,6 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-links:
-- name: URL
-  url: https://www.sciencedirect.com/science/article/pii/S0022369717314312
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

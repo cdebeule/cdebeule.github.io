@@ -21,7 +21,7 @@ author_notes: []
 date: '2023-05-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-24T00:56:10.184940Z'
+publishDate: '2023-11-24T01:11:25.764109Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -73,9 +73,6 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-links:
-- name: URL
-  url: https://scipost.org/10.21468/SciPostPhys.14.5.119
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

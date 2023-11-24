@@ -18,7 +18,7 @@ author_notes: []
 date: '2013-11-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-24T00:56:10.285649Z'
+publishDate: '2023-11-24T01:11:25.845651Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -70,9 +70,6 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-links:
-- name: URL
-  url: https://dx.doi.org/10.1088/1367-2630/15/11/113031
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

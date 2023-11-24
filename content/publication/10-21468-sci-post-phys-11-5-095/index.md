@@ -19,7 +19,7 @@ author_notes: []
 date: '2021-11-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-24T00:56:10.209213Z'
+publishDate: '2023-11-24T01:11:25.786530Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -27,7 +27,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*SciPost Phys. 11*'
+publication: '*SciPost Phys.*'
 publication_short: ''
 
 doi: 10.21468/SciPostPhys.11.5.095
@@ -71,9 +71,6 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-links:
-- name: URL
-  url: https://scipost.org/10.21468/SciPostPhys.11.5.095
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

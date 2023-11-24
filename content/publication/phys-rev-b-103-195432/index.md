@@ -17,7 +17,7 @@ author_notes: []
 date: '2021-05-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-24T00:56:10.237873Z'
+publishDate: '2023-11-24T01:11:25.801420Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -69,9 +69,6 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-links:
-- name: URL
-  url: https://link.aps.org/doi/10.1103/PhysRevB.103.195432
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
