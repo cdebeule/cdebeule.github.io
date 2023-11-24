@@ -6,10 +6,10 @@ authors:
 - Ming-Hao Liu
 - Patrik Recher
 date: '2020-10-01'
-publishDate: '2023-11-24T01:37:12.104834Z'
+publishDate: '2023-11-24T01:48:40.045570Z'
 publication_types:
 - article-journal
-publication: '*Phys. Rev. Res.*'
+publication: '*Physical Review Research*'
 doi: 10.1103/PhysRevResearch.2.043151
 tags:
 - article
