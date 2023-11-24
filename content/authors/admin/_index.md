@@ -25,7 +25,7 @@ organizations:
     url: https://www.physics.upenn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research interests include topological states of matter, quantum geometry, moiré materials.
+bio: My research interests include topological states of matter, quantum geometry, moiré materials.
 
 # Interests to show in About widget
 interests:
@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Christophe De Beule is a Postdoctoral Researcher at the University of Pennsylvania under supervision of Prof. Dr. Eugene J. Mele.
+I am a Postdoctoral Researcher at the University of Pennsylvania under supervision of Prof. Dr. Eugene J. Mele. My research interests include topological states of matter, quantum geometry, and moiré materials.
 {style="text-align: justify;"}
