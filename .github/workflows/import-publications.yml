@@ -34,7 +34,13 @@ jobs:
         # Check `.bib` file exists for case when action runs on `.bib` deletion
         # Note GH only provides hashFiles func in `steps.if` context, not `jobs.if` context
         if: ${{ hashFiles('publications.bib') != '' }}
-        run: academic import publications.bib content/publication/ --compact
+        run: academic import publications.bib content/publication/
+        # Optional arguments
+        # --compact Generate minimal markdown without comments or empty keys
+        # --overwrite Overwrite any existing publications in the output folder
+        # --normalize Normalize tags by converting them to lowercase and capitalizing the first letter (e.g. "sciEnCE" -> "Science")
+        # --featured Flag these publications as featured (to appear in your website's Featured Publications section)
+        # --verbose or -v Show verbose messages
       - name: Create Pull Request
         # Set ID for `Check outputs` stage
         id: cpr
