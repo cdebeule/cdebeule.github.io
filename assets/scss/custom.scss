@@ -1,0 +1,30 @@
+// .container {
+//     max-width: 90%;
+// }
+.avatar {
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    object-fit: cover;
+}
+
+// set max height of preview images
+.ml-3 img {
+    // max-width: 150px;
+    max-height: 130px;
+    width: auto;
+ }
+
+.col-12 .media {
+    display: flex;
+    align-items: center;
+}
+
+.mb-2, .my-2 {
+    margin-bottom: .5rem !important;
+    margin-top: .8rem;
+}
+
+.mr-2, .mx-2 {
+  margin-right: .8rem !important;
+}
