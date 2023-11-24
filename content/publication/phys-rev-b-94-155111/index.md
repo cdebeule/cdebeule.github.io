@@ -7,7 +7,7 @@ authors:
 - Bart Partoens
 - Björn Trauzettel
 date: '2016-10-01'
-publishDate: '2023-11-24T22:55:02.536897Z'
+publishDate: '2023-11-24T23:28:47.934166Z'
 publication_types:
 - article-journal
 publication: '*Physical Review B*'
