@@ -1,6 +1,6 @@
 ---
 # Display name
-title: DSc Christophe De Beule
+title: Christophe De Beule
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher in Condensed Matter Physics
+role: Postdoc in Condensed Matter Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
