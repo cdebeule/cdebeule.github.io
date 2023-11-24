@@ -5,11 +5,9 @@ authors:
 - Vo Tien Phong
 - E. J. Mele
 date: '2023-10-01'
-publishDate: '2023-11-24T01:48:39.990463Z'
+publishDate: '2023-11-24T02:41:52.578401Z'
 publication_types:
 - article-journal
 publication: '*PNAS*'
 doi: 10.1073/pnas.2306384120
-tags:
-- article
 ---
