@@ -74,7 +74,7 @@ sections:
           date_end: '2022-02-28'
           description: |-2
             * Postdoc in the group of Professor [Thomas Schmidt](https://www.tmqs.lu).
-                * Artifical event horizons in Weyl semimetals.
+              * Artifical event horizons in Weyl semimetals.
         - title: Postdoctoral Researcher
           company: Technical University of Braunschweig
           # company_url: 
@@ -84,7 +84,7 @@ sections:
           date_end: '2020-09-30'
           description: |-2
             * Postdoc in the group of Professor [Patrik Recher](https://www.tu-braunschweig.de/en/imaph/rechergroup).
-               * Scattering networks in twisted bilayer graphene.
+              * Scattering networks in twisted bilayer graphene.
     design:
       columns: '2'
   - block: collection
