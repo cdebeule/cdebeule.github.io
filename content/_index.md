@@ -43,16 +43,17 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
+    id: positions
     content:
-      title: Experience
+      title: Positions
       # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      # Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      # Add/remove as many `experience` items below as you like.
+      # Required fields are `title`, `company`, and `date_start`.
+      # Leave `date_end` empty if it's your current employer.
+      # Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      # Here the number indcates the indentation
       items:
         - title: Postdoctoral Researcher
           company: University of Pennsylvania
@@ -61,9 +62,9 @@ sections:
           location: Philadelphia (USA)
           date_start: '2022-03-01'
           date_end: ''
-          description: |2-
-              * 2023-02 -- Present : Postdoc in the group of Professor [Gene Mele](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/eugene-mele).
-              * 2022-03 -- 2023-02 : Visiting Scholar in the Group of Professor [Gene Mele](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/eugene-mele) supported by an [INTER Mobility grant](https://www.fnr.lu/results-2021-2-inter-mobility-call/) of the Luxembourg National Research Fund (FNR).
+          description: |-2
+            * 2023-02 -- Present : Postdoc in the group of Professor [Gene Mele](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/eugene-mele).
+            * 2022-03 -- 2023-02 : Visiting Scholar in the Group of Professor [Gene Mele](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/eugene-mele) supported by an [INTER Mobility grant](https://www.fnr.lu/results-2021-2-inter-mobility-call/) of the Luxembourg National Research Fund (FNR).
         - title: Postdoctoral Researcher
           company: University of Luxembourg
           # company_url: 
@@ -71,8 +72,9 @@ sections:
           location: Luxembourg (Luxembourg)
           date_start: '2020-10-01'
           date_end: '2022-02-28'
-          description: |1-
-              * Postdoc in the group of Professor [Thomas Schmidt](https://www.tmqs.lu).
+          description: |-2
+            * Postdoc in the group of Professor [Thomas Schmidt](https://www.tmqs.lu).
+                * Artifical event horizons in Weyl semimetals.
         - title: Postdoctoral Researcher
           company: Technical University of Braunschweig
           # company_url: 
@@ -80,8 +82,9 @@ sections:
           location: Braunschweig (Germany)
           date_start: '2018-04-01'
           date_end: '2020-09-30'
-          description: |1-
-              * Postdoc in the group of Professor [Patrik Recher](https://www.tu-braunschweig.de/en/imaph/rechergroup).
+          description: |-2
+            * Postdoc in the group of Professor [Patrik Recher](https://www.tu-braunschweig.de/en/imaph/rechergroup).
+               * Scattering networks in twisted bilayer graphene.
     design:
       columns: '2'
   - block: collection
