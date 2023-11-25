@@ -62,7 +62,7 @@ sections:
           location: Philadelphia (USA)
           date_start: '2022-03-01'
           date_end: ''
-          description: |2-
+          description: |-
             * 2023-02 -- Present : Postdoc in the group of Professor [Gene Mele](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/eugene-mele).
             * 2022-03 -- 2023-02 : Visiting Scholar in the Group of Professor [Gene Mele](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/eugene-mele) supported by an [INTER Mobility grant](https://www.fnr.lu/results-2021-2-inter-mobility-call/) of the Luxembourg National Research Fund (FNR).
         - title: Postdoctoral Researcher
@@ -72,9 +72,9 @@ sections:
           location: Luxembourg (Luxembourg)
           date_start: '2020-10-01'
           date_end: '2022-02-28'
-          description: |2-
+          description: |-
             * Postdoc in the group of Professor [Thomas Schmidt](https://www.tmqs.lu).
-              * |1- Artifical event horizons in Weyl semimetals.
+              * Artifical event horizons in Weyl semimetals.
         - title: Postdoctoral Researcher
           company: Technical University of Braunschweig
           # company_url: 
@@ -82,9 +82,9 @@ sections:
           location: Braunschweig (Germany)
           date_start: '2018-04-01'
           date_end: '2020-09-30'
-          description: |2-
+          description: |-
             * Postdoc in the group of Professor [Patrik Recher](https://www.tu-braunschweig.de/en/imaph/rechergroup).
-              * |1- Scattering networks in twisted bilayer graphene.
+              * Scattering networks in twisted bilayer graphene.
     design:
       columns: '2'
   - block: collection
