@@ -1,8 +1,10 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+Visit my personal website here : [cdebeule.github.io](https://cdebeule.github.io/).
 
-[![Screenshot](./preview.png)](https://hugoblox.com/templates/)
+Created with the [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv).
 
-The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+<!-- [![Screenshot](./preview.png)](https://hugoblox.com/templates/) -->
+
+<!-- The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
 
 [![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
 [![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
@@ -47,4 +49,4 @@ We're an open source movement that depends on your support to stay online and th
 - [What&#39;s new in v5.1?](https://hugoblox.com/blog/whats-new-in-v5.1/)
 - [Version 5.0 (February 2021)](https://hugoblox.com/blog/version-5.0-february-2021/)
 - [Version 5.0 Beta 3 (February 2021)](https://hugoblox.com/blog/version-5.0-beta-3-february-2021/)
-<!--END_SECTION:news-->
+END_SECTION:news -->
