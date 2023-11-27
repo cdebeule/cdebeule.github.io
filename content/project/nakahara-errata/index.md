@@ -19,9 +19,9 @@ links:
   # - icon: twitter
   #   icon_pack: fab
   #   name: Follow
-  #   url: https://twitter.com/georgecushen
+  #   url:
 # url_code: ''
-url_pdf: 'nakahara-errata.pdf'
+url_pdf: 'nakahara-errata-cdebeule.pdf'
 # url_slides: ''
 # url_video: ''
 
