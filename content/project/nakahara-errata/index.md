@@ -21,7 +21,7 @@ links:
   #   name: Follow
   #   url:
 # url_code: ''
-url_pdf: 'content/project/nakahara-errata/nakahara-errata-cdebeule.pdf'
+url_pdf: 'nakahara-errata-cdb.pdf'
 # url_slides: ''
 # url_video: ''
 
