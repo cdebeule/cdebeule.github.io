@@ -6,7 +6,7 @@ tags:
 date: '2023-11'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+# external_link: ''
 
 image:
   placement: 1
@@ -21,7 +21,7 @@ links:
   #   name: Follow
   #   url:
 # url_code: ''
-url_pdf: 'nakahara-errata-cdebeule.pdf'
+url_pdf: 'content/project/nakahara-errata/nakahara-errata-cdebeule.pdf'
 # url_slides: ''
 # url_video: ''
 
