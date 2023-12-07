@@ -130,6 +130,8 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/academic-resume-christophe-debeule-2023.pdf
+    display:
+      header: true
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
