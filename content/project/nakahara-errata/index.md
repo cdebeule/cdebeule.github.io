@@ -10,7 +10,7 @@ date: '2023-11'
 
 image:
   placement: 1
-  caption: Photo by Mikio Nakahara
+  caption: Image by Mikio Nakahara.
   focal_point: Smart
   # preview_only: true
   filename: nakahara.jpg

@@ -10,7 +10,7 @@ date: '2023-11'
 
 image:
   placement: 1
-  caption: Photo by H. Bruus and K. Flensberg
+  caption: Image by H. Bruus and K. Flensberg.
   focal_point: Smart
   # preview_only: true
   filename: bruus-flensberg.jpg

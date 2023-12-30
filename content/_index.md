@@ -88,13 +88,15 @@ sections:
       buttons:
         # - name: All
         #   tag: '*'
+        - name: Research
+          tag: research
         - name: Errata
           tag: errata
         - name: GitHub
           tag: github
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '3'
       # Choose a layout view
       view: compact
       # view: showcase
