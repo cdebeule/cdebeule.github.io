@@ -1,6 +1,6 @@
 ---
 title: Topological Andreev Rectification
-summary: Quantum transport in Andreev junctions implemented with the KWANT Python package. Click to view the GitHub repository that contains the Python code which reproduces the results from [Phys. Rev. B 107, 245422 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.245422).
+summary: Quantum transport in Andreev junctions implemented with the KWANT Python package. Links to the [GitHub repository](https://github.com/cdebeule/tar) with the code that reproduces the results from [Phys. Rev. B 107, 245422 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.245422).
 tags:
   - research
 date: "2023-12"
