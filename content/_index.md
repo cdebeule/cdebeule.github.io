@@ -96,7 +96,7 @@ sections:
           tag: github
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '3'
+      columns: '2'
       # Choose a layout view
       view: compact
       # view: showcase
