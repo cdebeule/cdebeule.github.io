@@ -35,7 +35,7 @@ organizations:
 # Interests to show in About widget
 interests:
   - Condensed Matter Physics
-  - Topological Materials
+  - Moiré Materials
   - Quantum Geometry
 
 # Education to show in About widget
