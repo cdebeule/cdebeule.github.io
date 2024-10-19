@@ -137,5 +137,6 @@ social:
 highlight_name: true
 ---
 
-I am a postdoc at the University of Pennsylvania in the group of Gene Mele. My main research interests include topological states of matter and quantum geometry in low-dimensional materials. I am especially interested in transport signatures of quantum geometry in moiré and other artifical superlattices.
+I am a postdoc at the University of Pennsylvania in the group of Gene Mele. My main research interests topological states of matter and quantum geometry in low-dimensional materials. I am currently working on the structural and electronic properties of moiré materials.
 {style="text-align: justify;"}
+<!-- I am a postdoc at the University of Pennsylvania in the group of Gene Mele. My main research interests include topological states of matter and quantum geometry in low-dimensional materials. I am especially interested in transport signatures of quantum geometry in moiré and other artifical superlattices. -->
