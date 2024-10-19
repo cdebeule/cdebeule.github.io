@@ -4,7 +4,7 @@ authors:
 - Christophe De Beule
 - Bart Partoens
 date: '2013-03-01'
-publishDate: '2024-10-19T17:44:57.263856Z'
+publishDate: '2024-10-19T17:52:53.810800Z'
 publication_types:
 - article-journal
 publication: '*Physical Review B*'
