@@ -7,7 +7,7 @@ authors:
 - Tobias Meng
 - Thomas L. Schmidt
 date: '2021-11-01'
-publishDate: '2023-11-24T23:28:47.876394Z'
+publishDate: '2024-10-19T17:12:53.931172Z'
 publication_types:
 - article-journal
 publication: '*SciPost Physics*'

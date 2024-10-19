@@ -6,7 +6,7 @@ authors:
 - Christophe De Beule
 - Bart Partoens
 date: '2013-11-01'
-publishDate: '2023-11-24T23:28:47.927955Z'
+publishDate: '2024-10-19T17:12:53.978569Z'
 publication_types:
 - article-journal
 publication: '*New Journal of Physics*'
