@@ -41,13 +41,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Physics
+    - course: PhD Physics
       institution: University of Antwerp
       year: 2017
-    - course: MSc in Physics
+    - course: MSc Physics
       institution: University of Antwerp
       year: 2012
-    - course: BSc in Physics
+    - course: BSc Physics
       institution: University of Antwerp
       year: 2010
 
