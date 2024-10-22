@@ -129,7 +129,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/academic-resume-christophe-debeule-2023.pdf
+    link: uploads/academic-resume-christophe-debeule-2024.pdf
     display:
       header: true
 
