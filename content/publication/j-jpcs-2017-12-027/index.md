@@ -5,7 +5,7 @@ authors:
 - Rolando Saniz
 - Partoens Bart
 date: '2018-01-01'
-publishDate: '2024-10-19T17:52:53.804953Z'
+publishDate: '2025-02-09T16:12:16.016768Z'
 publication_types:
 - article-journal
 publication: '*Journal of Physics and Chemistry of Solids*'

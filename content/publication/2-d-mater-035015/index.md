@@ -7,7 +7,7 @@ authors:
 - François M. Peeters
 - Ben Van Duppen
 date: '2016-09-01'
-publishDate: '2024-10-19T17:52:53.828477Z'
+publishDate: '2025-02-09T16:12:16.041151Z'
 publication_types:
 - article-journal
 publication: '*2D Materials*'
