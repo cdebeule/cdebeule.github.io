@@ -5,7 +5,7 @@ authors:
 - Vo Tien Phong
 - E. J. Mele
 date: '2023-01-01'
-publishDate: '2025-02-09T16:48:44.646823Z'
+publishDate: '2025-02-09T16:51:50.024532Z'
 publication_types:
 - article-journal
 publication: '*Physical Review B*'
