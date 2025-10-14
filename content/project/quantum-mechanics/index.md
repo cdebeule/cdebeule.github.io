@@ -1,6 +1,6 @@
 ---
-title: Quantum Mechanics Worksheets
-summary: Worksheets for problem-solving sessions.
+title: Quantum Mechanics
+summary: Worksheets and exams for problem-solving sessions in quantum mechanics course (work in progress).
 tags:
   - teaching
 date: '2025-10'
