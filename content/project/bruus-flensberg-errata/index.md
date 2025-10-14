@@ -1,6 +1,6 @@
 ---
 title: Bruus and Flensberg Errata
-summary: Errata for Many-Body Quantum Theory in Condensed Matter Physics: An Introduction by  Henrik Bruus and Karsten Flensberg. Work in progress.
+summary: 'Errata for Many-Body Quantum Theory in Condensed Matter Physics: An Introduction by  Henrik Bruus and Karsten Flensberg. Work in progress.'
 tags:
   - errata
 date: '2023-11'
