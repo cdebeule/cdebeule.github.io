@@ -9,7 +9,7 @@ authors:
 - Shaffique Adam
 - E. J. Mele
 date: '2025-06-01'
-publishDate: '2025-10-14T11:47:47.961371Z'
+publishDate: '2025-10-14T12:09:40.743435Z'
 publication_types:
 - article-journal
 publication: '*Physical Review B*'
