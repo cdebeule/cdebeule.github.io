@@ -19,8 +19,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Worksheet 1
-    # url: uploads/am-worksheet1-cdebeule.pdf
-    # new_tab: true
+    # url_pdf: uploads/am-worksheet1-cdebeule.pdf
 
 # url_pdf: ''
 # url_slides: ''
