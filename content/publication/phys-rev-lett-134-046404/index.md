@@ -7,7 +7,7 @@ authors:
 - E. J. Mele
 - Lucian Covaci
 date: '2025-01-01'
-publishDate: '2025-02-09T16:51:49.970938Z'
+publishDate: '2025-10-14T11:47:47.968282Z'
 publication_types:
 - article-journal
 publication: '*Physical Review Letters*'
