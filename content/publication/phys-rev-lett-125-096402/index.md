@@ -5,7 +5,7 @@ authors:
 - Fernando Dominguez
 - Patrik Recher
 date: '2020-08-01'
-publishDate: '2025-10-14T12:09:40.835135Z'
+publishDate: '2025-10-14T12:14:51.757375Z'
 publication_types:
 - article-journal
 publication: '*Physical Review Letters*'

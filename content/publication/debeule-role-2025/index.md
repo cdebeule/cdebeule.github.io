@@ -7,10 +7,10 @@ authors:
 - E. J. Mele
 - Shaffique Adam
 date: '2025-08-01'
-publishDate: '2025-10-14T12:09:40.707364Z'
+publishDate: '2025-10-14T12:14:51.627835Z'
 publication_types:
 - article-journal
-publication: '*arXiv*'
+publication: '*arXiv preprint*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2508.14283
