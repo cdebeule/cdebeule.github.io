@@ -139,6 +139,5 @@ highlight_name: true
 
 <!-- I am a postdoc at the University of Pennsylvania in the group of Gene Mele. My main research interests are the topological and quantum geometric properties of electrons in low-dimensional materials. I am currently working on the structural and electronic properties of moiré materials such as twisted bilayer graphene. -->
 I am a researcher in the Condensed Matter Theory group of the University of Antwerp. My broad research interests concern the structural and electronic properties of two-dimensional materials such as graphene and other van der Waals materials. I am particularly interested in the engineering of quantum geometry, band topology, and correlated electronic phases by combining different materials in so-called van der Waals heterostructures.
-
 My current research focuses on moiré materials, built from stacking two-dimensional materials with a relative twist angle, such as twisted transition-metal dichalcogenide bilayers, and the effect of electron-electron interactions on the low-energy moiré bands.
 {style="text-align: justify;"}
