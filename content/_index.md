@@ -90,6 +90,8 @@ sections:
         #   tag: '*'
         - name: Research
           tag: research
+        - name: Teaching
+          tag: teaching
         - name: Errata
           tag: errata
         - name: GitHub
@@ -147,7 +149,7 @@ sections:
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: cdebeule@upenn.edu #[cdebeule@upenn.edu](mailto:cdebeule@upenn.edu)
+      email: christophe.debeule@uantwerpen.be #[christophe.debeule@uantwerpen.be](mailto:christophe.debeule@uantwerpen.be)
       # phone: ''
       # appointment_url: ''
       contact_links:
@@ -157,8 +159,10 @@ sections:
         #   link: https://www.researchgate.net/profile/Christophe-De-Beule-2
         - icon: map-marker
           icon_pack: fas
-          name: Department of Physics and Astronomy, University of Pennsylvania, Philadelphia, Pennsylvania 19104, USA
-          link: https://www.physics.upenn.edu/
+          name: Department of Physics, University of Antwerp, Groenenborgerlaan 171, 2020 Antwerp, Belgium
+          # Department of Physics and Astronomy, University of Pennsylvania, Philadelphia, Pennsylvania 19104, USA
+          link: https://www.uantwerpen.be/en/departments/physics/
+          # https://www.physics.upenn.edu/
       #   - icon: twitter
       #     icon_pack: fab
       #     name: DM Me
