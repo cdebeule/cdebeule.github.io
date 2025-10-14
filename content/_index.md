@@ -32,8 +32,7 @@ sections:
           date_start: '2025-05-01'
           date_end: ''
           description: |2-
-            - Researcher in the [Condensed Matter Theory group](https://www.uantwerpen.be/en/research-groups/commit/).  
-      items:
+            - Researcher in the [Condensed Matter Theory group](https://www.uantwerpen.be/en/research-groups/commit).  
         - title: Postdoctoral Researcher
           company: University of Pennsylvania
           # company_url: 
