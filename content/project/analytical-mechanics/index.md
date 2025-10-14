@@ -1,6 +1,6 @@
 ---
 title: Analytical Mechanics
-summary: Worksheets and exams for problem-solving sessions in analytical mechanics course (work in progress).
+summary: Worksheets and exams for problem-solving sessions in analytical mechanics course. Work in progress.
 tags:
   - teaching
 date: '2025-10'
