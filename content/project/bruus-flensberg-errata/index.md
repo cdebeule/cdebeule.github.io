@@ -20,6 +20,7 @@ image:
 #   #   icon_pack: fab
 #   #   name: Follow
 #   #   url: https://twitter.com/georgecushen
+# new_tab: true
 # # url_code: ''
 # url_pdf: 'bruus-flensberg-errata.pdf'
 ---

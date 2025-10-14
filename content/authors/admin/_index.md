@@ -130,6 +130,7 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/cv-christophe-debeule-102025.pdf
+    new_tab: true
     display:
       header: true
 

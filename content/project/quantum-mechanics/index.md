@@ -20,34 +20,42 @@ links:
     icon_pack: fas
     name: Worksheet 1
     url: uploads/qm-worksheet1-cdebeule.pdf
+    new_tab: true
   - icon: file-pdf
     icon_pack: fas
     name: Worksheet 2
     url: uploads/qm-worksheet2-cdebeule.pdf
+    new_tab: true
   - icon: file-pdf
     icon_pack: fas
     name: Worksheet 3
     url: uploads/qm-worksheet3-cdebeule.pdf
+    new_tab: true
   - icon: file-pdf
     icon_pack: fas
     name: Worksheet 4
     url: uploads/qm-worksheet4-cdebeule.pdf
+    new_tab: true
   - icon: file-pdf
     icon_pack: fas
     name: Worksheet 5
     url: uploads/qm-worksheet5-cdebeule.pdf
+    new_tab: true
   - icon: file-pdf
     icon_pack: fas
     name: Worksheet 6
     url: uploads/qm-worksheet6-cdebeule.pdf
+    new_tab: true
   - icon: file-pdf
     icon_pack: fas
     name: Worksheet 7
     url: uploads/qm-worksheet7-cdebeule.pdf
+    new_tab: true
   - icon: file-pdf
     icon_pack: fas
     name: Worksheet 8
     url: uploads/qm-worksheet8-cdebeule.pdf
+    new_tab: true
 
 # url_pdf: ''
 # url_slides: ''
