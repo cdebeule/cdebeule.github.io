@@ -24,15 +24,25 @@ sections:
       # Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       # Here the number indcates the indentation
       items:
+        - title: Researcher
+          company: University of Antwerp
+          # company_url: 
+          company_logo: uantwerp-logo
+          location: Antwerpen (Belgium)
+          date_start: '2025-05-01'
+          date_end: ''
+          description: |2-
+            - Researcher in the [Condensed Matter Theory group](https://www.uantwerpen.be/en/research-groups/commit/).  
+      items:
         - title: Postdoctoral Researcher
           company: University of Pennsylvania
           # company_url: 
           company_logo: upenn-logo
           location: Philadelphia (USA)
           date_start: '2022-03-01'
-          date_end: ''
+          date_end: '2025-04-30'
           description: |2-
-            - 2023-02 -- present: Postdoc in the group of Professor [Gene Mele](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/eugene-mele).
+            - 2023-02 -- 2025-04: Postdoc in the group of Professor [Gene Mele](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/eugene-mele).
             - 2022-03 -- 2023-02: Visiting Scholar in the Group of Professor [Gene Mele](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/eugene-mele) supported by an [INTER Mobility grant](https://www.fnr.lu/results-2021-2-inter-mobility-call/) of the Luxembourg National Research Fund (FNR).
         - title: Postdoctoral Researcher
           company: University of Luxembourg
