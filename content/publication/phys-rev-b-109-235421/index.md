@@ -6,7 +6,7 @@ authors:
 - Spenser Talkington
 - E. J. Mele
 date: '2024-06-01'
-publishDate: '2025-10-14T11:47:47.980699Z'
+publishDate: '2025-10-14T12:09:40.762059Z'
 publication_types:
 - article-journal
 publication: '*Physical Review B*'
