@@ -15,7 +15,7 @@ image:
   # preview_only: true
   filename: nakahara.jpg
 
-links:
+# links:
   # - icon: twitter
   #   icon_pack: fab
   #   name: Follow
