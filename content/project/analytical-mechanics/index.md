@@ -16,11 +16,11 @@ date: '2025-10'
 #   # preview_only: true
 #   filename: am.jpg
 
-links:
-  - icon: file-pdf
-    icon_pack: fas
-    name: Worksheet 1
-    # url_pdf: uploads/am-worksheet1-cdebeule.pdf
+# links:
+#   - icon: file-pdf
+#     icon_pack: fas
+#     name: Worksheet 1
+#     url_pdf: uploads/am-worksheet1-cdebeule.pdf
 
 # url_pdf: ''
 # url_slides: ''
