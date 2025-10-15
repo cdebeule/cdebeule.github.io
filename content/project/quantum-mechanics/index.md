@@ -49,6 +49,27 @@ links:
     name: Worksheet 8
     url: uploads/qm-worksheet8-cdebeule.pdf
 
+  - icon: file-pdf
+    icon_pack: fas
+    name: Exam 1
+    url: uploads/qm-exam1-cdebeule.pdf
+  - icon: file-pdf
+    icon_pack: fas
+    name: Exam 2
+    url: uploads/qm-exam2-cdebeule.pdf
+  - icon: file-pdf
+    icon_pack: fas
+    name: Exam 3
+    url: uploads/qm-exam3-cdebeule.pdf
+  - icon: file-pdf
+    icon_pack: fas
+    name: Exam 4
+    url: uploads/qm-exam4-cdebeule.pdf
+  - icon: file-pdf
+    icon_pack: fas
+    name: Exam 5
+    url: uploads/qm-exam5-cdebeule.pdf
+
 # url_pdf: ''
 # url_slides: ''
 # url_video: ''
