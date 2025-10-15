@@ -19,8 +19,17 @@ date: '2025-10'
 links:
   - icon: file-pdf
     icon_pack: fas
-    name: Extra 1
+    name: Ground state of symmetric quantum system
     url: uploads/symmetric-quantum-cdebeule.pdf
+  - icon: file-pdf
+    icon_pack: fas
+    name: Multidimensional error integral
+    url: uploads/error-integral-cdebeule.pdf
+  - icon: file-pdf
+    icon_pack: fas
+    name: Energy-time uncertainty
+    url: uploads/energy-time-uncertainty-cdebeule.pdf
+
 
 # url_pdf: ''
 # url_slides: ''
