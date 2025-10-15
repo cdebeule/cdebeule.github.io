@@ -1,5 +1,6 @@
 ---
 title: Bosonization
+weight: 4
 summary: Worksheets for problem-solving sessions in an introductory course on bosonization.
 tags:
   - teaching

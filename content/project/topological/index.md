@@ -1,5 +1,6 @@
 ---
 title: Topological Systems
+weight: 3
 summary: Worksheets for problem-solving sessions in an introductory course on topological systems, including topological insulators, Majorana bound states, and the abelian toric code.
 tags:
   - teaching

@@ -1,5 +1,6 @@
 ---
 title: Quantum Mechanics
+weight: 2
 summary: Quantum mechanics problem-solving worksheets and exams.
 tags:
   - teaching

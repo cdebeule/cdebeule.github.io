@@ -1,5 +1,6 @@
 ---
 title: Extra
+weight: 10
 summary: Miscellaneous odds and ends.
 tags:
   - teaching
