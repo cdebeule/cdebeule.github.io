@@ -19,7 +19,7 @@ date: '2025-10'
 links:
   - icon: file-pdf
     icon_pack: fas
-    name: Ground state of symmetric quantum system
+    name: Symmetric quantum system
     url: uploads/symmetric-quantum-cdebeule.pdf
   - icon: file-pdf
     icon_pack: fas
