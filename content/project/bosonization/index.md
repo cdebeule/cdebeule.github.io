@@ -1,6 +1,6 @@
 ---
-title: Topological Systems
-summary: Worksheets for problem-solving sessions in an introductory course on topological systems, including topological insulators, Majorana bound states, and the abelian toric code.
+title: Bosonization
+summary: Worksheets for problem-solving sessions in an introductory course on bosonization.
 tags:
   - teaching
 date: '2025-10'
@@ -19,23 +19,31 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Worksheet 1
-    url: uploads/topological-systems-ws1-cdebeule.pdf
+    url: uploads/bosonization-ws1-cdebeule.pdf
   - icon: file-pdf
     icon_pack: fas
     name: Worksheet 2
-    url: uploads/topological-systems-ws2-cdebeule.pdf
+    url: uploads/bosonization-ws2-cdebeule.pdf
   - icon: file-pdf
     icon_pack: fas
     name: Worksheet 3
-    url: uploads/topological-systems-ws3-cdebeule.pdf
+    url: uploads/bosonization-ws3-cdebeule.pdf
   - icon: file-pdf
     icon_pack: fas
     name: Worksheet 4
-    url: uploads/topological-systems-ws4-cdebeule.pdf
+    url: uploads/bosonization-ws4-cdebeule.pdf
   - icon: file-pdf
     icon_pack: fas
     name: Worksheet 5
-    url: uploads/topological-systems-ws5-cdebeule.pdf
+    url: uploads/bosonization-ws5-cdebeule.pdf
+  - icon: file-pdf
+    icon_pack: fas
+    name: Worksheet 6
+    url: uploads/bosonization-ws6-cdebeule.pdf
+  - icon: file-pdf
+    icon_pack: fas
+    name: Worksheet 7
+    url: uploads/bosonization-ws7-cdebeulee.pdf
 
 # url_pdf: ''
 # url_slides: ''
