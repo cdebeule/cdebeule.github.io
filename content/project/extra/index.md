@@ -33,6 +33,10 @@ links:
     icon_pack: fas
     name: Quantized Hall response
     url: uploads/hall-response-lattice-cdebeule.pdf
+  - icon: file-pdf
+    icon_pack: fas
+    name: TKNN
+    url: uploads/tknn-cdebeule.pdf
 
 # url_pdf: ''
 # url_slides: ''
