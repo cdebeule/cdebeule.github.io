@@ -44,7 +44,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Worksheet 7
-    url: uploads/bosonization-ws7-cdebeulee.pdf
+    url: uploads/bosonization-ws7-cdebeule.pdf
 
 # url_pdf: ''
 # url_slides: ''
