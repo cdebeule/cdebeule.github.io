@@ -16,11 +16,19 @@ date: '2025-10'
 #   # preview_only: true
 #   filename: am.jpg
 
-# links:
-#   - icon: file-pdf
-#     icon_pack: fas
-#     name: Worksheet 1
-#     url_pdf: uploads/am-worksheet1-cdebeule.pdf
+links:
+  - icon: file-pdf
+    icon_pack: fas
+    name: Worksheet 1
+    url_pdf: uploads/analytical-mechanics-worksheet1-cdebeule.pdf
+  - icon: file-pdf
+    icon_pack: fas
+    name: Worksheet 2
+    url_pdf: uploads/analytical-mechanics-worksheet2-cdebeule.pdf
+  - icon: file-pdf
+    icon_pack: fas
+    name: Worksheet 3
+    url_pdf: uploads/analytical-mechanics-worksheet3-cdebeule.pdf
 
 # url_pdf: ''
 # url_slides: ''
