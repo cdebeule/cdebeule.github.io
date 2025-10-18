@@ -20,15 +20,35 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Worksheet 1
-    url: uploads/analytical-mechanics-worksheet1-cdebeule.pdf
+    url: uploads/analytical-mechanics-ws1-cdebeule.pdf
   - icon: file-pdf
     icon_pack: fas
     name: Worksheet 2
-    url: uploads/analytical-mechanics-worksheet2-cdebeule.pdf
+    url: uploads/analytical-mechanics-ws2-cdebeule.pdf
   - icon: file-pdf
     icon_pack: fas
     name: Worksheet 3
-    url: uploads/analytical-mechanics-worksheet3-cdebeule.pdf
+    url: uploads/analytical-mechanics-ws3-cdebeule.pdf
+  - icon: file-pdf
+    icon_pack: fas
+    name: Worksheet 4
+    url: uploads/analytical-mechanics-ws4-cdebeule.pdf
+  - icon: file-pdf
+    icon_pack: fas
+    name: Worksheet 5
+    url: uploads/analytical-mechanics-ws5-cdebeule.pdf
+  - icon: file-pdf
+    icon_pack: fas
+    name: Worksheet 6
+    url: uploads/analytical-mechanics-ws6-cdebeule.pdf
+  - icon: file-pdf
+    icon_pack: fas
+    name: Worksheet 7
+    url: uploads/analytical-mechanics-ws7-cdebeule.pdf
+  - icon: file-pdf
+    icon_pack: fas
+    name: Worksheet 8
+    url: uploads/analytical-mechanics-ws8-cdebeule.pdf
 
 # url_pdf: ''
 # url_slides: ''
