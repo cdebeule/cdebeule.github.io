@@ -1,7 +1,7 @@
 ---
 title: Analytical Mechanics
 weight: 2
-summary: Analytical mechanics problem-solving worksheets and exams. Work in progress.
+summary: Analytical mechanics problem-solving worksheets and exams.
 tags:
   - teaching
 date: '2025-10'
