@@ -27,10 +27,6 @@ links:
     url: uploads/error-integral-cdebeule.pdf
   - icon: file-pdf
     icon_pack: fas
-    name: Energy-time uncertainty
-    url: uploads/energy-time-uncertainty-cdebeule.pdf
-  - icon: file-pdf
-    icon_pack: fas
     name: Quantized Hall response
     url: uploads/hall-response-lattice-cdebeule.pdf
   - icon: file-pdf
