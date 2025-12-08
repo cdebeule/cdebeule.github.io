@@ -33,6 +33,10 @@ links:
     icon_pack: fas
     name: TKNN
     url: uploads/tknn-cdebeule.pdf
+  - icon: file-pdf
+    icon_pack: fas
+    name: Computational methods for quantum geometry
+    url: uploads/methods-quantum-geometry-cdebeule.pdf
 
 # url_pdf: ''
 # url_slides: ''
