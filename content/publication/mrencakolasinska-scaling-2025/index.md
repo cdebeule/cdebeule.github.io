@@ -9,7 +9,7 @@ authors:
 - Klaus Richter
 - Ming-Hao Liu
 date: '2025-05-01'
-publishDate: '2025-10-14T12:14:51.637382Z'
+publishDate: '2026-02-25T11:27:17.943257Z'
 publication_types:
 - article-journal
 publication: '*arXiv preprint*'

@@ -5,7 +5,7 @@ authors:
 - Mohammad Zarenia
 - Bart Partoens
 date: '2017-03-01'
-publishDate: '2025-10-14T12:14:51.763514Z'
+publishDate: '2026-02-25T11:27:18.072512Z'
 publication_types:
 - article-journal
 publication: '*Physical Review B*'
