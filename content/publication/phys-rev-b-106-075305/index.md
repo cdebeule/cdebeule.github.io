@@ -6,7 +6,7 @@ authors:
 - Daniel Frombach
 - Patrik Recher
 date: '2022-08-01'
-publishDate: '2026-02-25T11:57:07.414935Z'
+publishDate: '2026-02-25T14:10:55.965242Z'
 publication_types:
 - article-journal
 publication: '*Physical Review B*'
