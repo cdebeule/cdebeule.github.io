@@ -8,7 +8,7 @@ authors:
 - E. J. Mele
 - Shaffique Adam
 date: '2025-03-01'
-publishDate: '2026-02-25T14:10:55.888680Z'
+publishDate: '2026-03-05T16:04:11.325751Z'
 publication_types:
 - article-journal
 publication: '*arXiv preprint*'
