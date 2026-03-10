@@ -12,7 +12,7 @@ authors:
 - S. Adam
 - Alexey I. Berdyugin
 date: '2024-12-01'
-publishDate: '2026-03-05T16:04:11.334188Z'
+publishDate: '2026-03-10T08:20:51.458146Z'
 publication_types:
 - article-journal
 publication: '*arXiv preprint*'
