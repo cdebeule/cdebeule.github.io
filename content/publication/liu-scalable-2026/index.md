@@ -8,11 +8,10 @@ authors:
 - Aitor Garcia-Ruiz
 - Denis Kochan
 - Klaus Richter
-date: '2026-03-01'
-publishDate: '2026-03-10T08:20:51.412113Z'
+date: '2026-04-01'
+publishDate: '2026-06-04T16:19:48.973109Z'
 publication_types:
 - article-journal
-links:
-- name: arXiv
-  url: https://arxiv.org/abs/2603.02077
+publication: '*Physical Review B*'
+doi: 10.1103/ntf2-5dyw
 ---
