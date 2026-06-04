@@ -5,12 +5,10 @@ authors:
 - Ming-Hao Liu
 - Bart Partoens
 - Lucian Covaci
-date: '2025-12-01'
-publishDate: '2026-03-10T08:20:51.418851Z'
+date: '2026-03-01'
+publishDate: '2026-06-04T16:19:48.985007Z'
 publication_types:
 - article-journal
-publication: '*arXiv preprint*'
-links:
-- name: arXiv
-  url: https://arxiv.org/abs/2512.22982
+publication: '*Physical Review B*'
+doi: 10.1103/g6fn-xnf3
 ---

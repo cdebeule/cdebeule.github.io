@@ -9,13 +9,12 @@ authors:
 - K. Watanabe
 - T. Tanigushi
 - A. K. Geim
-- S. Adam
+- Shaffique Adam
 - Alexey I. Berdyugin
 date: '2024-12-01'
-publishDate: '2026-03-10T08:20:51.458146Z'
+publishDate: '2026-06-04T16:19:48.948599Z'
 publication_types:
 - article-journal
-publication: '*arXiv preprint*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2412.01577

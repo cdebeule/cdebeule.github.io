@@ -1,18 +1,17 @@
 ---
-title: Itinerant Magnetism in Twisted Bilayer WSe2
+title: Itinerant Magnetism in Twisted Bilayer WSe$_2$ and MoTe$_2$
 authors:
 - Liangtao Peng
 - Christophe De Beule
+- Yiyang Lai
 - Du Li
 - Li Yang
 - E. J. Mele
 - Shaffique Adam
-date: '2025-03-01'
-publishDate: '2026-03-10T08:20:51.451668Z'
+date: '2026-04-01'
+publishDate: '2026-06-04T16:19:48.990804Z'
 publication_types:
 - article-journal
-publication: '*arXiv preprint*'
-links:
-- name: arXiv
-  url: https://arxiv.org/abs/2503.09689
+publication: '*Physical Review B*'
+doi: 10.1103/hmgc-shx3
 ---

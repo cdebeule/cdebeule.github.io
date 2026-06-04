@@ -1,5 +1,5 @@
 ---
-title: Theory for Lattice Relaxation in Marginal Twist Moirés
+title: Theory for Lattice Relaxation in Marginally Twisted Bilayers
 authors:
 - Christophe De Beule
 - Gayani N. Pallewela
@@ -7,12 +7,10 @@ authors:
 - Liangtao Peng
 - E. J. Mele
 - Shaffique Adam
-date: '2025-03-01'
-publishDate: '2026-03-10T08:20:51.445095Z'
+date: '2026-04-01'
+publishDate: '2026-06-04T16:19:48.978989Z'
 publication_types:
 - article-journal
-publication: '*arXiv preprint*'
-links:
-- name: arXiv
-  url: https://arxiv.org/abs/2503.19162
+publication: '*Physical Review B*'
+doi: 10.1103/vm93-prv6
 ---
