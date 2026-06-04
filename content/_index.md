@@ -41,7 +41,7 @@ sections:
           date_start: '2025-05-01'
           date_end: '2026-07-31'
           description: |2-
-            - Researcher in the [Condensed Matter Theory group](https://www.uantwerpen.be/en/research-groups/commit).  
+            - Researcher in the [COMMIT group](https://www.uantwerpen.be/en/research-groups/commit).  
         - title: Postdoc
           company: University of Pennsylvania
           # company_url: 
@@ -60,7 +60,7 @@ sections:
           date_start: '2020-10-01'
           date_end: '2022-02-28'
           description: |2-
-            - Postdoc in the group of Professor [Thomas Schmidt](https://www.tmqs.lu).  
+            - Postdoc in the group of [Thomas Schmidt](https://www.tmqs.lu).  
           # - Main research topic: Artifical event horizons in Weyl semimetals.
         - title: Postdoc
           company: Technical University of Braunschweig
@@ -70,7 +70,7 @@ sections:
           date_start: '2018-04-01'
           date_end: '2020-09-30'
           description: |2-
-            - Postdoc in the group of Professor [Patrik Recher](https://www.tu-braunschweig.de/en/imaph/rechergroup).
+            - Postdoc in the group of [Patrik Recher](https://www.tu-braunschweig.de/en/imaph/rechergroup).
           # - Main research topic: Topological scattering networks and mesoscopic transport in twisted bilayer graphene.
     design:
       columns: '2'
