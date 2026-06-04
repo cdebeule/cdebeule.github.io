@@ -29,25 +29,26 @@ sections:
           # company_url: 
           company_logo: ncku-logo
           location: Tainan (Taiwan)
-          date_start: '2026-08'
+          date_start: '2026-08-01'
           date_end: ''
-          description:
+          description: |2-
+            - Researcher in the [Condensed Matter Theory group](https://www.uantwerpen.be/en/research-groups/commit).  
         - title: Postdoc
           company: University of Antwerp
           # company_url: 
           company_logo: uantwerp-logo
           location: Antwerp (Belgium)
-          date_start: '2025-05'
-          date_end: '2026-07'
+          date_start: '2025-05-01'
+          date_end: '2026-07-31'
           description: |2-
-            - [COMMIT group](https://www.uantwerpen.be/en/research-groups/commit).  
+            - Researcher in the [Condensed Matter Theory group](https://www.uantwerpen.be/en/research-groups/commit).  
         - title: Postdoc
           company: University of Pennsylvania
           # company_url: 
           company_logo: upenn-logo
           location: Philadelphia (USA)
-          date_start: '2022-03'
-          date_end: '2025-04'
+          date_start: '2022-03-01'
+          date_end: '2025-04-30'
           description: |2-
             - 2023-02 -- 2025-04: Postdoc in the group of [Gene Mele](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/eugene-mele).
             - 2022-03 -- 2023-02: Visiting Scholar in the group of [Gene Mele](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/eugene-mele) supported by an [INTER Mobility grant](https://www.fnr.lu/results-2021-2-inter-mobility-call/) of the Luxembourg National Research Fund (FNR).
@@ -56,8 +57,8 @@ sections:
           # company_url: 
           company_logo: unilu-logo
           location: Luxembourg (Luxembourg)
-          date_start: '2020-10'
-          date_end: '2022-02'
+          date_start: '2020-10-01'
+          date_end: '2022-02-28'
           description: |2-
             - Postdoc in the group of Professor [Thomas Schmidt](https://www.tmqs.lu).  
           # - Main research topic: Artifical event horizons in Weyl semimetals.
@@ -66,8 +67,8 @@ sections:
           # company_url: 
           company_logo: tubs-logo
           location: Braunschweig (Germany)
-          date_start: '2018-04'
-          date_end: '2020-09'
+          date_start: '2018-04-01'
+          date_end: '2020-09-30'
           description: |2-
             - Postdoc in the group of Professor [Patrik Recher](https://www.tu-braunschweig.de/en/imaph/rechergroup).
           # - Main research topic: Topological scattering networks and mesoscopic transport in twisted bilayer graphene.
