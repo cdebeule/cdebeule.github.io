@@ -36,7 +36,8 @@ organizations:
 interests:
   - Condensed Matter Physics
   - Moiré Materials
-  - Quantum Geometry
+  - Straintronics
+  - Topological Materials and Quantum Geometry
 
 # Education to show in About widget
 education:
@@ -129,7 +130,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/cv-christophe-debeule-102025.pdf
+    link: uploads/cv-christophe-debeule-jun26.pdf
     display:
       header: true
 

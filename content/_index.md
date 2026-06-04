@@ -24,42 +24,50 @@ sections:
       # Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       # Here the number indcates the indentation
       items:
-        - title: Researcher
+        - title: Assistant Professor (incoming)
+          company: National Cheng Kung University
+          # company_url: 
+          company_logo: ncku-logo
+          location: Tainan (Taiwan)
+          date_start: '2026-08'
+          date_end: ''
+          description:
+        - title: Postdoc
           company: University of Antwerp
           # company_url: 
           company_logo: uantwerp-logo
-          location: Antwerpen (Belgium)
-          date_start: '2025-05-01'
-          date_end: ''
+          location: Antwerp (Belgium)
+          date_start: '2025-05'
+          date_end: '2026-07'
           description: |2-
-            - Researcher in the [Condensed Matter Theory group](https://www.uantwerpen.be/en/research-groups/commit).  
-        - title: Postdoctoral Researcher
+            - [COMMIT group](https://www.uantwerpen.be/en/research-groups/commit).  
+        - title: Postdoc
           company: University of Pennsylvania
           # company_url: 
           company_logo: upenn-logo
           location: Philadelphia (USA)
-          date_start: '2022-03-01'
-          date_end: '2025-04-30'
+          date_start: '2022-03'
+          date_end: '2025-04'
           description: |2-
-            - 2023-02 -- 2025-04: Postdoc in the group of Professor [Gene Mele](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/eugene-mele).
-            - 2022-03 -- 2023-02: Visiting Scholar in the Group of Professor [Gene Mele](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/eugene-mele) supported by an [INTER Mobility grant](https://www.fnr.lu/results-2021-2-inter-mobility-call/) of the Luxembourg National Research Fund (FNR).
-        - title: Postdoctoral Researcher
+            - 2023-02 -- 2025-04: Postdoc in the group of [Gene Mele](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/eugene-mele).
+            - 2022-03 -- 2023-02: Visiting Scholar in the group of [Gene Mele](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/eugene-mele) supported by an [INTER Mobility grant](https://www.fnr.lu/results-2021-2-inter-mobility-call/) of the Luxembourg National Research Fund (FNR).
+        - title: Postdoc
           company: University of Luxembourg
           # company_url: 
           company_logo: unilu-logo
           location: Luxembourg (Luxembourg)
-          date_start: '2020-10-01'
-          date_end: '2022-02-28'
+          date_start: '2020-10'
+          date_end: '2022-02'
           description: |2-
             - Postdoc in the group of Professor [Thomas Schmidt](https://www.tmqs.lu).  
           # - Main research topic: Artifical event horizons in Weyl semimetals.
-        - title: Postdoctoral Researcher
+        - title: Postdoc
           company: Technical University of Braunschweig
           # company_url: 
           company_logo: tubs-logo
           location: Braunschweig (Germany)
-          date_start: '2018-04-01'
-          date_end: '2020-09-30'
+          date_start: '2018-04'
+          date_end: '2020-09'
           description: |2-
             - Postdoc in the group of Professor [Patrik Recher](https://www.tu-braunschweig.de/en/imaph/rechergroup).
           # - Main research topic: Topological scattering networks and mesoscopic transport in twisted bilayer graphene.
@@ -158,7 +166,7 @@ sections:
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: christophe.debeule@uantwerpen.be #[christophe.debeule@uantwerpen.be](mailto:christophe.debeule@uantwerpen.be)
+      email: christophe.debeule@gmail.com #[christophe.debeule@uantwerpen.be](mailto:christophe.debeule@uantwerpen.be)
       # phone: ''
       # appointment_url: ''
       contact_links:
