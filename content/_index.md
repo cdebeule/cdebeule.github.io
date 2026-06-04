@@ -32,7 +32,7 @@ sections:
           date_start: '2026-08-01'
           date_end: ''
           description: |2-
-            - Researcher in the [Condensed Matter Theory group](https://www.uantwerpen.be/en/research-groups/commit).  
+            - [NCKU Department of Physics](https://phys.ncku.edu.tw/en/).  
         - title: Postdoc
           company: University of Antwerp
           # company_url: 
