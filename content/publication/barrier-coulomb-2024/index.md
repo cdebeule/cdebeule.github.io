@@ -3,8 +3,8 @@ title: Coulomb screening of superconductivity in magic-angle twisted bilayer gra
 authors:
 - Julien Barrier
 - Liangtao Peng
-- Christophe De Beule
 - Shuigang Xu
+- Christophe De Beule
 - V. I. Fal'ko
 - K. Watanabe
 - T. Tanigushi
@@ -12,7 +12,7 @@ authors:
 - Shaffique Adam
 - Alexey I. Berdyugin
 date: '2024-12-01'
-publishDate: '2026-06-04T16:35:56.706391Z'
+publishDate: '2026-07-08T04:08:44.673153Z'
 publication_types:
 - article-journal
 links:
