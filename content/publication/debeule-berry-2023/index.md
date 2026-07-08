@@ -4,7 +4,7 @@ authors:
 - Christophe De Beule
 - E. J. Mele
 date: '2023-11-01'
-publishDate: '2026-06-04T16:35:56.774236Z'
+publishDate: '2026-07-08T04:08:44.726553Z'
 publication_types:
 - article-journal
 publication: '*Physical Review Letters*'
