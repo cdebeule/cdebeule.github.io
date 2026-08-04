@@ -6,7 +6,7 @@ authors:
 - Bart Partoens
 - Lucian Covaci
 date: '2026-03-01'
-publishDate: '2026-07-08T04:08:44.700511Z'
+publishDate: '2026-08-04T04:58:43.832353Z'
 publication_types:
 - article-journal
 publication: '*Physical Review B*'

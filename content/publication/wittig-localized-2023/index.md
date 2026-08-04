@@ -7,7 +7,7 @@ authors:
 - Christophe De Beule
 - Patrik Recher
 date: '2023-08-01'
-publishDate: '2026-07-08T04:08:44.739423Z'
+publishDate: '2026-08-04T04:58:43.871090Z'
 publication_types:
 - article-journal
 publication: '*Physical Review B*'
