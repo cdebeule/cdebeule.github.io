@@ -139,6 +139,6 @@ social:
 highlight_name: true
 ---
 
-I am an assistant professor in the Department of Physics at National Cheng Kung University in Tainan, Taiwan, specializing in condensed matter theory. My research focuses on the electronic properties of two-dimensional van der Waals materials, including graphene and transition-metal dichalcogenides.<br><br>
+I am an assistant professor in the Department of Physics at National Cheng Kung University in Tainan, Taiwan, specializing in condensed matter theory. My research focuses on the electronic properties of two-dimensional van der Waals materials, including graphene and transition metal dichalcogenides.<br><br>
 A central focus of my work is the interplay between quantum geometry, band topology, and correlated electronic phases in artificial quantum materials such as moiré systems, formed by stacking atomically thin layers with a relative twist angle or lattice mismatch.
 {style="text-align: justify;"}
