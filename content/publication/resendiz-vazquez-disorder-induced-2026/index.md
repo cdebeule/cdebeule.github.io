@@ -14,13 +14,9 @@ authors:
 - Mark T. Edmonds
 - Michael S. Fuhrer
 date: '2026-06-01'
-publishDate: '2026-07-08T04:08:44.686707Z'
+publishDate: '2026-08-04T04:58:43.819153Z'
 publication_types:
 - article-journal
 publication: '*ACS Nano*'
-links:
-- name: arXiv
-  url: https://arxiv.org/abs/2602.06318
-- name: URL
-  url: https://arxiv.org/abs/2602.06318
+doi: 10.1021/acsnano.6c02381
 ---

@@ -11,10 +11,11 @@ authors:
 - A. K. Geim
 - Shaffique Adam
 - Alexey I. Berdyugin
-date: '2024-12-01'
-publishDate: '2026-07-08T04:08:44.673153Z'
+date: '2026-08-01'
+publishDate: '2026-08-04T04:58:43.814077Z'
 publication_types:
 - article-journal
+publication: '*Physical Review X*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2412.01577

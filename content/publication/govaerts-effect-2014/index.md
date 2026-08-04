@@ -8,7 +8,7 @@ authors:
 - Bart Partoens
 - Dirk Lamoen
 date: '2014-10-01'
-publishDate: '2026-07-08T04:08:44.821523Z'
+publishDate: '2026-08-04T04:58:43.929660Z'
 publication_types:
 - article-journal
 publication: '*Physical Review B*'
