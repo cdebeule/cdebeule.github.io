@@ -178,7 +178,7 @@ sections:
         - icon: map-marker
           icon_pack: fas
           name: Department of Physics, National Cheng Kung University, Tainan 70101, Taiwan
-          link: https://phys.ncku.edu.tw/en/
+          link: https://maps.app.goo.gl/iLdaxNxhbm7CK6fF9
       #   - icon: twitter
       #     icon_pack: fab
       #     name: DM Me
