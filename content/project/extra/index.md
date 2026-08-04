@@ -1,7 +1,7 @@
 ---
-title: Extra
+title: Miscellaneous
 weight: 10
-summary: Miscellaneous odds and ends.
+summary:
 tags:
   - teaching
 date: '2025-10'
