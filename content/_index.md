@@ -24,7 +24,7 @@ sections:
       # Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       # Here the number indcates the indentation
       items:
-        - title: Assistant Professor (incoming)
+        - title: Assistant Professor
           company: National Cheng Kung University
           # company_url: 
           company_logo: ncku-logo
@@ -41,7 +41,7 @@ sections:
           date_start: '2025-05-01'
           date_end: '2026-07-31'
           description: |2-
-            - Researcher in the [COMMIT group](https://www.uantwerpen.be/en/research-groups/commit).  
+            - Postdoc in the [COMMIT group](https://www.uantwerpen.be/en/research-groups/commit).  
         - title: Postdoc
           company: University of Pennsylvania
           # company_url: 
@@ -167,7 +167,7 @@ sections:
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: christophe.debeule@gmail.com #[christophe.debeule@uantwerpen.be](mailto:christophe.debeule@uantwerpen.be)
+      email: cdebeule@phys.ncku.edu.tw
       # phone: ''
       # appointment_url: ''
       contact_links:
@@ -177,10 +177,8 @@ sections:
         #   link: https://www.researchgate.net/profile/Christophe-De-Beule-2
         - icon: map-marker
           icon_pack: fas
-          name: Department of Physics, University of Antwerp, Groenenborgerlaan 171, 2020 Antwerp, Belgium
-          # Department of Physics and Astronomy, University of Pennsylvania, Philadelphia, Pennsylvania 19104, USA
-          link: https://www.uantwerpen.be/en/departments/physics/
-          # https://www.physics.upenn.edu/
+          name: Department of Physics, National Cheng Kung University, Tainan 70101, Taiwan
+          link: https://phys.ncku.edu.tw/en/
       #   - icon: twitter
       #     icon_pack: fab
       #     name: DM Me
