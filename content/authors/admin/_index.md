@@ -22,12 +22,12 @@ last_name: De Beule
 superuser: true
 
 # Role/position/tagline
-role: Postdoc in Condensed Matter Physics
+role: Assistant Professor in Condensed Matter Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Antwerp
-    url: https://www.uantwerpen.be/en/departments/physics/
+  - name: National Cheng Kung University
+    url: https://phys.ncku.edu.tw/en/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include topological states of matter, quantum geometry, moiré materials.
@@ -36,9 +36,9 @@ organizations:
 interests:
   - Condensed Matter Physics
   - Topological Materials
+  - Quantum Geometry
   - Moiré Materials
   - Straintronics
-  - Quantum Geometry
 
 # Education to show in About widget
 education:
