@@ -6,7 +6,7 @@ authors:
 - Ming-Hao Liu
 - Patrik Recher
 date: '2020-10-01'
-publishDate: '2026-08-04T04:58:43.901231Z'
+publishDate: '2026-08-19T08:08:17.251596Z'
 publication_types:
 - article-journal
 publication: '*Physical Review Research*'
