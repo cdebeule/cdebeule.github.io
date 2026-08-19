@@ -5,7 +5,7 @@ authors:
 - Christophe De Beule
 - Charles L. Kane
 date: '2023-07-01'
-publishDate: '2026-08-04T04:58:43.866819Z'
+publishDate: '2026-08-19T08:08:17.206813Z'
 publication_types:
 - article-journal
 publication: '*Physical Review B*'

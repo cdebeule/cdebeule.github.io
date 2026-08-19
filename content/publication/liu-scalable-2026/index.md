@@ -9,7 +9,7 @@ authors:
 - Denis Kochan
 - Klaus Richter
 date: '2026-04-01'
-publishDate: '2026-08-04T04:58:43.823640Z'
+publishDate: '2026-08-19T08:08:17.145075Z'
 publication_types:
 - article-journal
 publication: '*Physical Review B*'
